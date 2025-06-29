@@ -2,18 +2,28 @@ Hi there 👋 😊
 
 I'm the founder of [Rejobs.org](https://rejobs.org/en), the renewable energy job board. I build climate tech solutions.
 
-For over 10 years, I've been shipping production systems with Go, PHP, Python | PostgreSQL, TimescaleDB, MongoDB | Docker, K8s, Terraform | AWS, GCP, and bare metal.
+For over 10 years, I've been shipping production systems with:
 
-**What I do:**
+- Go, PHP, Python
+- PostgreSQL, MongoDB, TimescaleDB
+- Docker, K8s, Terraform
+- AWS, GCP, and bare metal
+- and a lot more...
 
-- Design APIs and microservices for real-time time-series data processing
-- Transform legacy systems into modern, maintainable architectures
-- Build data pipelines for analytics and monitoring systems
-- Integrate LLMs into production applications
+Mainly in these areas:
 
-**Notable projects:**
+- Designing and building secure web services and APIs for great user experience and reliability
+- Transforming legacy systems into modern, maintainable architectures
+- Building data pipelines for analytics and monitoring systems
+- Integration of LLMs into production applications
 
-- **Rejobs.org** - Renewable energy job board connecting talent with climate tech companies
-- **Binocs** - CLI-first synthetic monitoring tool with Go client binaries, Terraform provider, and REST API (discontinued)
+Notable projects:
 
-🔍 I'm open to opportunities where I can use my tech skills to accelerate the energy transition. Contact me via [LinkedIn](https://www.linkedin.com/in/jholub/) or [jholub@gmail.com](mailto:jholub@gmail.com)
+- [Rejobs.org](https://rejobs.org/en) - Renewable energy job board connecting talent with climate tech companies
+- [Binocs](https://github.com/automato-io/binocs-cli) - CLI-first synthetic monitoring tool with Go client binaries, Terraform provider, and REST API (discontinued)
+
+Currently seeking:
+
+Freelance or full-time opportunities in climate tech where I can apply my tech expertise to accelerate the energy transition.
+
+Let's talk: [LinkedIn](https://www.linkedin.com/in/jholub/) or [jholub@gmail.com](mailto:jholub@gmail.com)
