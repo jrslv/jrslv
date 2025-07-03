@@ -1,6 +1,6 @@
 Hi there 👋 😊
 
-I'm the founder of [Rejobs.org](https://rejobs.org/en), the renewable energy job board. I build climate tech solutions.
+I'm the founder of [Rejobs.org](https://rejobs.org/en), the renewable energy job board.
 
 For over 10 years, I've been shipping production systems with:
 
@@ -22,8 +22,3 @@ Notable projects:
 - [Rejobs.org](https://rejobs.org/en) - Renewable energy job board connecting talent with climate tech companies
 - [Binocs](https://github.com/automato-io/binocs-cli) - CLI-first synthetic monitoring tool with Go client binaries, Terraform provider, and REST API (discontinued)
 
-Currently seeking:
-
-Freelance or full-time opportunities in climate tech where I can apply my tech expertise to accelerate the energy transition.
-
-Let's talk: [LinkedIn](https://www.linkedin.com/in/jholub/) or [jholub@gmail.com](mailto:jholub@gmail.com)
